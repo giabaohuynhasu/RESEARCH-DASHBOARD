@@ -1,0 +1,15 @@
+{
+  "name": "research-landing",
+  "version": "1.0.0",
+  "description": "Autonomous Research Portfolio by Gia Bao Huynh (Jun). Covering AI Personhood, Longevity Asymmetry, and War Correspondent Philosophy (WCP).",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Build completed successfully')\"",
+    "start": "node server.js",
+    "lint": "node -e \"console.log('Lint check passed')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

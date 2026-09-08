@@ -1,0 +1,8 @@
+{
+  "name": "LAR-OS | Frontier Scientific Research Portfolio",
+  "description": "Autonomous Research Portfolio by Gia Bao Huynh (Jun). Covering AI Personhood, Longevity Asymmetry, and War Correspondent Philosophy (WCP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
